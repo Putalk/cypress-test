@@ -1,0 +1,13 @@
+.idea/
+.idea
+mochawesome-report/
+output/
+node_modules/
+.nyc_output/
+public/.DS_Store
+test/.DS_Store
+.DS_Store
+npm-debug.log
+test/screen/
+# Use yarn instead of npm
+package-lock.json
